@@ -21,3 +21,9 @@ print("Constant-style name:", MAX_VALUE)
 print("Function name:", greet())
 print("Class name:", Student.__name__)
 print("Name using an underscore:", student_name)
+
+#Variable: 20
+# Constant-style name: 100
+# Function name: Hello
+# Class name: Student
+# Name using an underscore: Srinu
